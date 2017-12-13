@@ -10,15 +10,15 @@ comment: false
 mathjax: false
 ---
 
-Hugo is a static site engine written in Go.
+南海之帝为儵，北海之帝为忽，中央之帝为浑沌。
 
+儵与忽时相与遇于 浑沌之地，浑沌待之甚善。
 
-It makes use of a variety of open source projects including:
+儵与忽谋报浑沌之德，曰：“人皆有七窍以视听食息此独无有，尝试凿之。”
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+日凿一窍。
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+七日，而浑沌死。
+
+-- [【庄子-内篇·应帝王】](http://so.gushiwen.org/guwen/bookv_3260.aspx)
 
