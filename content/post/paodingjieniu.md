@@ -18,3 +18,5 @@ contentCopyright: '<a rel="license noopener" href="https://zh.wikipedia.org/wiki
 
 文惠君曰：“善哉！吾闻庖丁之言，得养生焉。”
 
+
+-- [【庄子-内篇·养生主】](http://so.gushiwen.org/guwen/bookv_3256.aspx)
